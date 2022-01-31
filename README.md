@@ -7,7 +7,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - [Tutorials](url)
 - [Group Discussion](url)
 - [Documents](url)
-- [Books](url)
+- [Books](https://www.researchgate.net/publication/330650010_Localization_for_Autonomous_Driving)
 - [Group Policy](url)
 - [Source Code Location](url)
 
