@@ -4,12 +4,14 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+```markdown
+```
 - [Tutorials](url)
 - [Group Discussion](url)
 - [Documents](url)
-- [Books](https://www.researchgate.net/publication/330650010_Localization_for_Autonomous_Driving)
+- [Books](url)
 - [Group Policy](url)
-- [Source Code Location](url)
+- [Source Code Location](https://github.com/Marshall0526/Six-Piece/edit/main/README.md)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
