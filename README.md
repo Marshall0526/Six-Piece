@@ -6,12 +6,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 ```
-- <a href="url">Tutorials</a>
-- <a href="url">Group Discussion</a>
-- <a href="url">Documents</a>
-- <a href="url">Books</a>
-- <a href="url">Group Policy</a>
-- <a href="url">Source Code Location</a>
+- [Tutorials](url)
+- [Group Discussion](url)
+- [Documents](url)
+- [Books](url)
+- [Group Policy](url)
+- [Source Code Location](url)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
